@@ -40,13 +40,11 @@
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me
 </h2>
-<br />
 - 🔭 I’m working ~ <br/>
 - 🏋 I'm passionate about fitness, and it pays off ~<br/>
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~<br/>
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4222578354040471)<br/>
-<!-- - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~ -->
-- 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~<br/>
+- 👻 I love to share, and currently share technical articles at juejin: https://juejin.cn/user/4222578354040471<br/>
+- 📨 My email address is <a href="mailto:caesarfan1978@gmail.com">caesarfan1978@gmail.com</a>. Welcome to contact me! 👏🏻~<br/>
 <br/>
 
 <!-- 使用技能 -->
@@ -91,4 +89,7 @@
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
 
+<br/>
+<br/>
+<br/>
 <br/>
