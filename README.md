@@ -46,6 +46,17 @@
 <!-- - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~ -->
 - 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~
 
+<br/>
+
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
+<br/>
+
 <!-- 统计卡片 -->
 <br/>
 
