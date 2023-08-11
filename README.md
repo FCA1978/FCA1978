@@ -2,6 +2,8 @@
 <p align="center">
   <h1 height="200px" align="center">
     Hey <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Caesar Fan
+    <!-- 浏览量 -->
+<img src="https://komarev.com/ghpvc/?username=FCA1978" />
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle ⛹️ frontend developer from China 👨‍💻</p>
 </p>
@@ -37,8 +39,6 @@
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me
-<!-- 浏览量 -->
-<img src="https://komarev.com/ghpvc/?username=FCA1978" />
 </h2>
 <br />
 - 🔭 I’m working ~ <br/>
