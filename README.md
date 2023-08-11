@@ -44,7 +44,7 @@
 - 🔭 I’m working ~ <br/>
 - 🏋 I'm passionate about fitness, and it pays off ~<br/>
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~<br/>
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4222578354040471)<br/>
+- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4222578354040471)~<br/>
 <!-- - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~ -->
 - 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~<br/>
 <br/>
