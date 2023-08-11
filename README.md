@@ -36,16 +36,12 @@
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
-
-<br/>
-
-- 🔭 I’m currently working ~
+- 🔭 I’m working ~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4222578354040471)
 <!-- - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~ -->
 - 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~
-
 <br/>
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
@@ -57,6 +53,7 @@
 
 <br/>
 
+<!-- 使用技能 -->
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -73,15 +70,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-
 <br/>
 
 <!-- 统计卡片 -->
 <br/>
-
 <h2 height="200px" align="center">🐒 Github Stats</h2>
 <br />
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
-
 <br/>
+
+<!-- 浏览量 -->
+<img src="https://komarev.com/ghpvc/?username=FCA1978" />
