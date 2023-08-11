@@ -1,7 +1,7 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Caesar Fan
+    Hey <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Caesar Fan
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle ⛹️ frontend developer from China 👨‍💻</p>
 </p>
@@ -36,14 +36,17 @@
 <br />
 
 <!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
+<h2 height="200px" align="center">🎉 About Me
+<!-- 浏览量 -->
+<img src="https://komarev.com/ghpvc/?username=FCA1978" />
+</h2>
 <br />
-- 🔭 I’m working ~
-- 🏋 I'm passionate about fitness, and it pays off ~
-- 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4222578354040471)
+- 🔭 I’m working ~ <br/>
+- 🏋 I'm passionate about fitness, and it pays off ~<br/>
+- 👨‍💻 I'm passionate about coding and have been developing my skill ~<br/>
+- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4222578354040471)<br/>
 <!-- - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~ -->
-- 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~
+- 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~<br/>
 <br/>
 
 <!-- 使用技能 -->
@@ -79,9 +82,6 @@
 <br />
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FCA1978&theme=dark" align="center" /></div>
 <br/>
-
-<!-- 浏览量 -->
-<img src="https://komarev.com/ghpvc/?username=FCA1978" />
 
 <br/>
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
