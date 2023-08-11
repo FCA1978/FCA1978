@@ -30,10 +30,11 @@
 
 <!-- 背景图 -->
 <br />
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-<br />
-<!-- <img align="right" alt="GIF" src="./assets/bg.png" width="400"/> -->
 
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+<br>
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
@@ -79,6 +80,21 @@
 <br />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
 <br/>
+<br />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCA1978&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" align="center" /></div>
+<br/>
+<br />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FCA1978&theme=dark" align="center" /></div>
+<br/>
+
+<!-- 使用语言 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCA1978&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 提交数量 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FCA1978&theme=dark)](https://git.io/streak-stats)
+
 
 <!-- 浏览量 -->
 <img src="https://komarev.com/ghpvc/?username=FCA1978" />
