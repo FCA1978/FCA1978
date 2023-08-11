@@ -3,7 +3,7 @@
   <h1 height="200px" align="center">
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Caesar Fan
   </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
+   <p align="center">A Sometimes passion ✨ and sometimes idle ⛹️ frontend developer from China 👨‍💻</p>
 </p>
 
 <!--
@@ -49,7 +49,8 @@
 <!-- 统计卡片 -->
 <br/>
 
-## Github Stats
+<h2 height="200px" align="center">🐒 Github Stats</h2>
+<br />
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
 
