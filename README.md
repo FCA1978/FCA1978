@@ -44,17 +44,9 @@
 - 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~
 <br/>
 
-<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
-
-<br/>
 
 <!-- 使用技能 -->
-<h2 height="200px" align="center">🚀 Some Tools I Use</h2>
+<!-- <h2 height="200px" align="center">🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
@@ -70,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-<br/>
+<br/> -->
 
 <!-- 统计卡片 -->
 <br/>
@@ -89,3 +81,13 @@
 
 <!-- 浏览量 -->
 <img src="https://komarev.com/ghpvc/?username=FCA1978" />
+
+<br/>
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
+<br/>
