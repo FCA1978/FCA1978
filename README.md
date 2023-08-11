@@ -6,7 +6,7 @@
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
 
-<!-- 
+<!--
   技术栈标签, 小标签来自: https://shields.io/
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
@@ -37,17 +37,7 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-<!-- 统计卡片 -->
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
+<br/>
 
 - 🔭 I’m currently working ~
 - 🏋 I'm passionate about fitness, and it pays off ~
@@ -55,3 +45,12 @@
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4222578354040471)
 <!-- - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~ -->
 - 📨 My email address is `caesarfan1978@gmail.com` Welcome to contact me 👏🏻 ~
+
+<!-- 统计卡片 -->
+<br/>
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
+
+<br/>
