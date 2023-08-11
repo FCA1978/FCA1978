@@ -56,7 +56,7 @@
 <br/>
 
 <!-- 使用技能 -->
-<h2>🚀 Some Tools I Use</h2>
+<h2 height="200px" align="center">🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
@@ -80,21 +80,14 @@
 <br />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
 <br/>
+<!-- 使用语言 -->
 <br />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCA1978&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" align="center" /></div>
 <br/>
+<!-- 提交数量 -->
 <br />
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FCA1978&theme=dark" align="center" /></div>
 <br/>
-
-<!-- 使用语言 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCA1978&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 提交数量 -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FCA1978&theme=dark)](https://git.io/streak-stats)
-
 
 <!-- 浏览量 -->
 <img src="https://komarev.com/ghpvc/?username=FCA1978" />
