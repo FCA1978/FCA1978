@@ -38,6 +38,18 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
+<!-- 统计卡片 -->
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+
+<br/>  
+
+
+<br/>  
+
 - 🔭 I’m currently working ~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
