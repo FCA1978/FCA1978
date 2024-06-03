@@ -1,7 +1,7 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-    Hey <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Caesar Fan
+    Hey <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">, I'm Caesar Fan
     <!-- 浏览量 -->
 <img src="https://komarev.com/ghpvc/?username=FCA1978" />
   </h1>
