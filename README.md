@@ -69,14 +69,6 @@
 
 <br/>
 <h2 height="200px" align="center">🐒 Github Stats</h2>
-<!-- 使用语言 -->
-<br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCA1978&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" align="center" /></div>
-<br/>
-<!-- 统计卡片 -->
-<br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FCA1978&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
-<br/>
 <!-- 提交数量 -->
 <br />
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FCA1978&theme=dark" align="center" /></div>
